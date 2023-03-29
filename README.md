@@ -9,4 +9,10 @@ this problem is calculating all the complex constants to find the series which a
   $$f(t) \approx \sum_{n=-50}^{50}c_ne^{2{\pi}int}$$   where    $$c_n = \int_{0}^{1} e^{-2{\pi}int}f(t) \,dt$$
 
 3Blue1Brown has a [video that explains fourier series very
-well.](https://www.youtube.com/watch?v=r6sGWTCMz2k&t=1315s), and that is what this project is based on.
+well.](https://www.youtube.com/watch?v=r6sGWTCMz2k&t=1315s), and that is what this project is based on.  
+  
+    
+    
+**Below shows a crude image of a house drawn first by hand them estimated with the sum of rotating vectors**. 
+
+![Image of a house drawn with fourier series](https://github.com/gavin-oconnor/fourier/blob/main/house_example.png)
